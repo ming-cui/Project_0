@@ -140,7 +140,7 @@ See the help page `?xaringan::moon_reader` for all possible options that you can
 Some differences between using remark.js (left) and using **xaringan** (right):
 
 .pull-left[
-1. Start with a boilerplate HTML file;
+1. Start with a boilerplate HTML file;ss
 
 1. Plain Markdown;
 
